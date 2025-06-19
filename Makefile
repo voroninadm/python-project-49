@@ -9,3 +9,8 @@ package-install: #установить пакет в операционную с
 
 brain-games: #запуск проекта
 	uv run brain-games
+
+lint:
+	uv run ruff check brain_games
+
+
