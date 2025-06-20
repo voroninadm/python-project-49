@@ -19,3 +19,5 @@
 [![asciicast](https://asciinema.org/a/4IOvl9qFyMO79k966mnEpACDo.svg)](https://asciinema.org/a/4IOvl9qFyMO79k966mnEpACDo)
 5. ``brain-progression`` - найди пропущенное число в арифметической прогрессии
 [![asciicast](https://asciinema.org/a/snLBxpeitJDjTyZdXtqeRANcE.svg)](https://asciinema.org/a/snLBxpeitJDjTyZdXtqeRANcE)
+6. ``brain-prime`` - угадай, простое число или нет
+[![asciicast](https://asciinema.org/a/tb0HNJeGiAF3XPxhiIWe03gWO.svg)](https://asciinema.org/a/tb0HNJeGiAF3XPxhiIWe03gWO)
