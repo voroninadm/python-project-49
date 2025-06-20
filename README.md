@@ -17,3 +17,5 @@
 [![asciicast](https://asciinema.org/a/FKVOUDyzq8nVMT0bLRXIZRQ5P.svg)](https://asciinema.org/a/FKVOUDyzq8nVMT0bLRXIZRQ5P)
 4. ``brain-gcd`` - найди наибольший общий делитель (Greatest Common Divisor)
 [![asciicast](https://asciinema.org/a/4IOvl9qFyMO79k966mnEpACDo.svg)](https://asciinema.org/a/4IOvl9qFyMO79k966mnEpACDo)
+5. ``brain-progression`` - найди пропущенное число в арифметической прогрессии
+[![asciicast](https://asciinema.org/a/snLBxpeitJDjTyZdXtqeRANcE.svg)](https://asciinema.org/a/snLBxpeitJDjTyZdXtqeRANcE)
