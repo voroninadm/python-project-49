@@ -7,11 +7,13 @@
 
 - Установка зависимостей- ```make install```
 - Билд проекта - ``make build``
-- Установка - ``make project-install``
+- Установка игового пакета в систему - ``make project-install``
 
-## Содержание
-1. ``make brain-games`` - приветствие
-2. ``make brain-even`` - угадайка четное-нечетное число
+## Содержание. Запускаем игры командами:
+1. ``brain-games`` - приветствие
+2. ``brain-even`` - угадайка четное-нечетное число
 [![asciicast](https://asciinema.org/a/snLBxpeitJDjTyZdXtqeRANcE.svg)](https://asciinema.org/a/snLBxpeitJDjTyZdXtqeRANcE)
-3. ``make brain-calc`` - побудь в роли калькулятора
+3. ``brain-calc`` - побудь в роли калькулятора
 [![asciicast](https://asciinema.org/a/FKVOUDyzq8nVMT0bLRXIZRQ5P.svg)](https://asciinema.org/a/FKVOUDyzq8nVMT0bLRXIZRQ5P)
+4. ``brain-gcd`` - найди наибольший общий делитель (Greatest Common Divisor)
+[![asciicast](https://asciinema.org/a/4IOvl9qFyMO79k966mnEpACDo.svg)](https://asciinema.org/a/4IOvl9qFyMO79k966mnEpACDo)
