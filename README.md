@@ -3,5 +3,15 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voroninadm_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voroninadm_python-project-49)
 
 
-Тестовый Проект Игры разума
+## Тестовый проект "Игры разума"
 
+- Установка зависимостей- ```make install```
+- Билд проекта - ``make build``
+- Установка - ``make project-install``
+
+## Содержание
+1. ``make brain-games`` - приветствие
+2. ``make brain-even`` - угадайка четное-нечетное число
+[![asciicast](https://asciinema.org/a/snLBxpeitJDjTyZdXtqeRANcE.svg)](https://asciinema.org/a/snLBxpeitJDjTyZdXtqeRANcE)
+3. ``make brain-calc`` - побудь в роли калькулятора
+[![asciicast](https://asciinema.org/a/FKVOUDyzq8nVMT0bLRXIZRQ5P.svg)](https://asciinema.org/a/FKVOUDyzq8nVMT0bLRXIZRQ5P)
