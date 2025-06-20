@@ -12,7 +12,10 @@ def play():
     length_of_progression = 10
     hidden_position = random.randint(0, length_of_progression - 1)
 
-    progression = [start_number + step_of_progress * i for i in range(length_of_progression)]
+    progression = [
+        start_number + step_of_progress * i
+        for i in range(length_of_progression)
+    ]
     correct_answer = str(progression[hidden_position])
     progression[hidden_position] = '..'
 
